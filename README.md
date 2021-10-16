@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Sriram Kasyap Meduri, a self-taught Full stack engineer. 
+I am Sriram Kasyap Meduri, a self-taught Full stack engineer with over 5 years of experience in developing and maintaining Web and mobile applications of varying complexities.
 
 ![Sriram's github stats](https://github-readme-stats.vercel.app/api?username=sriramkasyap)
 
