@@ -7,6 +7,6 @@ I am Sriram Kasyap Meduri, a self-taught Full stack engineer with over 6 years o
 </a>
 
 <a href="https://github.com/sriramkasyap">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriramkasyap&show_icons=true&theme=dark&hide=css,less,java,hack,html,dart&layout=compact&langs_count=6"/>
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriramkasyap&show_icons=true&theme=dark&hide=css,scss,less,java,hack,html,dart&layout=compact&langs_count=6"/>
 </a>
 
