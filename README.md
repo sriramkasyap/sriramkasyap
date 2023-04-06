@@ -9,4 +9,8 @@ I am Sriram Kasyap Meduri, a self-taught Full stack engineer with over 7 years o
 <a href="https://github.com/sriramkasyap">
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriramkasyap&show_icons=true&theme=dark&hide=css,scss,less,java,hack,html,dart&layout=compact&langs_count=6"/>
 </a>
+<a href="https://github.com/sriramkasyap">
+  <img alt="Streak" src="  https://github-readme-streak-stats.herokuapp.com/?user=sriramkasyap&theme=dark&hide_border=false"/>
+</a>
+
 
