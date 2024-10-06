@@ -13,7 +13,3 @@ I am Sriram Kasyap Meduri, a self-taught Full stack engineer with over 8 years o
 <a href="https://github.com/sriramkasyap">
   <img alt="Top Langs" src="https://github-stats-sriram.vercel.app/api/top-langs/?username=sriramkasyap&show_icons=true&theme=dark&hide=css,scss,less,java,hack,html,dart&layout=compact&langs_count=6"/>
 </a>
-
-
-
-
