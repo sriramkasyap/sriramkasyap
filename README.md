@@ -3,7 +3,7 @@
 I am Sriram Kasyap Meduri, a self-taught Full stack engineer with over 8 years of experience in developing and maintaining Web and mobile applications of varying complexities.
 
 <a href="https://github.com/sriramkasyap">
-  <img alt="Sriram kasyap's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sriramkasyap&theme=dark&hide_border=false"/>
+  <img alt="Sriram kasyap's Streak" src="https://stats.sriramkasyap.in/?user=sriramkasyap&theme=dark&hide_border=false"/>
 </a>
 <br/>
 <a href="https://github.com/sriramkasyap" >
