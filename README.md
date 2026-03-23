@@ -21,7 +21,7 @@ Product-focused **Full-Stack Engineer** with **10+ years** of experience taking 
 
 | Company            | Role                        | Period              | Key Achievement                                  |
 | ------------------ | --------------------------- | ------------------- | ------------------------------------------------ |
-| **Viva Chefs**     | Senior Full Stack Engineer  | Dec 2024 - Present  | Cut operations effort by 50% through automation  |
+| **Viva Chefs**     | Senior Full Stack Engineer  | Dec 2024 - Jan 2026  | Cut operations effort by 50% through automation  |
 | **Parcel Tech**    | Senior Full Stack Developer | Oct 2021 - Oct 2024 | Processed $500M+ in on-chain transactions        |
 | **The Rowdy Club** | Lead Developer              | May 2018 - Oct 2021 | Cut infra costs 95%, scaled to 2M+ requests/hour |
 
